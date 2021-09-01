@@ -1,2 +1,3 @@
 # Hello-World
-This is a Test repo
+Hello teamates!
+I'm trying to do my first commit here!
